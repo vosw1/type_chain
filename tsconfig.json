@@ -4,7 +4,7 @@
       "outDir": "build", 
       "target": "ES6",
       "lib": ["ES6", "DOM"], 
-      "strict": true, // 매우 보호해줌
-      "allowJs": true, // TS안에 JS 허용
+      "strict": true,
+      "allowJs": true,
   }
 }
