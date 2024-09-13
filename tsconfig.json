@@ -1,9 +1,10 @@
-//TS 파일 위치 알려주기
 {
-  "include": ["src"], // src의 모든 파일 확인하기
+  "include": ["src", "src/myPackage.js"], 
   "compilerOptions": {
-      "outDir": "build", // JS 파일이 생설될 폴더 지정
-      "target": "ES6", // TS가 바꿔줄 JS의 버전
-      "lib": ["ES6", "DOM"] // JS가 어디에서 동작할지 설정
+      "outDir": "build", 
+      "target": "ES6",
+      "lib": ["ES6", "DOM"], 
+      "strict": true, // 매우 보호해줌
+      "allowJs": true, // TS안에 JS 허용
   }
 }
