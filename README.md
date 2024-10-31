@@ -10,10 +10,13 @@
 
 ---
 
-|     Tech      | Content                                                                                                                                                                                                                                                                                                                                                                                    |
-| :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|**Framework**|![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)|
-|   **Tools**   | ![VScode](https://img.shields.io/badge/VScode-green?logo=visualstudiocode&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)                          |
+# Tech Stack
+| Tech         | Content                                                                                                                                                                                                                     |
+| :----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Language**  | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+|**Framework**|![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white) |
+| **IDE**       | ![VScode](https://img.shields.io/badge/VScode-blue?logo=vscode&logoColor=white)  |
+|   **Tools**   | ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)              |
 
 ---
 
